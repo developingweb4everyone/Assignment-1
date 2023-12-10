@@ -1,0 +1,49 @@
+
+body {
+    background-color: #d3d3d3;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+}
+header {
+    background-color: #c4fffcbd;
+}
+nav {
+    background-color: #c4fffcbd;
+    text-align: center;
+}
+
+div {
+    display:table-cell;
+    border-image:fill;
+}
+main {
+    background-color: #c4fffcbd;
+    font-size: medium;
+}
+footer {
+    background-color: #c4fffcbd;
+    font-size: medium;
+
+}
+
+h1 {
+    font-family: 'Times New Roman' !important;
+    text-align: left;
+    color: rgba(0, 0, 255, 0.774);
+    text-transform: uppercase;
+}
+h2 {
+    text-transform: capitalize;
+}
+li {
+    display: block
+    width 200%;
+}
+
+p{
+    line-height: 200%;
+    color: #ff0000;
+    font-variant: small-caps;
+}
+
+
